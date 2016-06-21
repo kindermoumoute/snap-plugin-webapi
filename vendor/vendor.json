@@ -3,24 +3,6 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "mUaD5bF911E/ORgjRWICqdBV/vw=",
-			"path": "github.com/codegangsta/cli",
-			"revision": "f7ebb761e83e21225d1d8954fde853bf8edd46c4",
-			"revisionTime": "2014-09-23T03:34:35Z"
-		},
-		{
-			"checksumSHA1": "9scjxkJI3ZXJqqorbUfJb8SS3D8=",
-			"path": "github.com/google/go-github/github",
-			"revision": "5c1b3a05b41ae630de925007cd8f3e52909d1dbb",
-			"revisionTime": "2016-06-16T21:23:48Z"
-		},
-		{
-			"checksumSHA1": "yyAzHoiVLu+xywYI2BDyRq6sOqE=",
-			"path": "github.com/google/go-querystring/query",
-			"revision": "9235644dd9e52eeae6fa48efd539fdc351a0af53",
-			"revisionTime": "2016-03-11T01:20:12Z"
-		},
-		{
 			"checksumSHA1": "mZK+4q1Xr8z0AwkCAgO+7Rb8xk8=",
 			"path": "github.com/julienschmidt/httprouter",
 			"revision": "77366a47451a56bb3ba682481eed85b64fea14e8",
